@@ -1,0 +1,27 @@
+.primeiro {
+    background-color: greenyellow;
+}
+
+.segundo {
+    background-color: green;
+}
+
+.terceiro {
+    background-color: greenyellow;
+
+}
+.exemplo {
+    list-style-type: none;
+}
+.bloco {
+    width: 300px;
+    height: 120px;
+    /*
+    display: inline
+    */
+    display: inline-block;
+}
+.bloco:hover {
+    background-color: blue;
+    color: blueviolet;
+}
